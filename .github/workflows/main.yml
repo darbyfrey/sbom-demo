@@ -1,0 +1,20 @@
+name: build-attest
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+      attestations: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Attest
+        uses: actions/attest-sbom@v2
+        with:
+          subject-path: '${{ github.workspace }}/subject.txt'
+          sbom-path: 'bom.json'
+

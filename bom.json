@@ -1,0 +1,5429 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.1",
+  "serialNumber": "urn:uuid:f537dcef-e91f-45ba-b9df-f447e49387e5",
+  "version": 1,
+  "components": [
+    {
+      "type": "library",
+      "name": "actioncable",
+      "version": "5.2.7",
+      "description": "WebSocket framework for Rails.",
+      "purl": "pkg:gem/actioncable@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "91782cc5866f6e26ff2c39e2fba02c68da02617e99d3e2f229f238e181a5e588"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "actionmailer",
+      "version": "5.2.7",
+      "description": "Email composition, delivery, and receiving framework (part of Rails).",
+      "purl": "pkg:gem/actionmailer@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ff622cbf62259d9235b442e1e98ceecebe8f53e9628c2aca0fb515124512c1b7"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "actionpack",
+      "version": "5.2.7",
+      "description": "Web-flow and rendering framework putting the VC in MVC (part of Rails).",
+      "purl": "pkg:gem/actionpack@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "155ade3510ddb72719105a5b79bd3985ca0ae926ca72e0fdd81a5a0d2d67fa25"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "actionview",
+      "version": "5.2.7",
+      "description": "Rendering framework putting the V in MVC (part of Rails).",
+      "purl": "pkg:gem/actionview@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f38a5c2098cd553e83ec12892f28c41cf419143c29c7112acb541ea09e3fcef5"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "active-campaign-rails",
+      "version": "0.2.3",
+      "description": "Simple rails wrapper for ActiveCampaign API",
+      "purl": "pkg:gem/active-campaign-rails@0.2.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4426951b3cf4dbc432eaeabf3bff64784dddc0d27e157cb8e6003a37f7234520"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "activejob",
+      "version": "5.2.7",
+      "description": "Job framework with pluggable queues.",
+      "purl": "pkg:gem/activejob@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b5e576fa3814e72d9653edaee5285dd0045be02bed784e2ad19980a158c3d0fb"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "activemodel",
+      "version": "5.2.7",
+      "description": "A toolkit for building modeling frameworks (part of Rails).",
+      "purl": "pkg:gem/activemodel@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "52a9c9ac244b565fe768e5b3da9de390c68f58043b641b9fef1b37f51078f810"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "activerecord",
+      "version": "5.2.7",
+      "description": "Object-relational mapper framework (part of Rails).",
+      "purl": "pkg:gem/activerecord@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0a31e9015ce8d60a1a8c11b80b88a1adce21e1b47a08345d9d51447343a1517a"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "activestorage",
+      "version": "5.2.7",
+      "description": "Local and cloud file storage framework.",
+      "purl": "pkg:gem/activestorage@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6449ab9b0ff0842847c45b3426f8ef605638d084c56872b1382dee9a3d3ce94b"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "activesupport",
+      "version": "5.2.7",
+      "description": "A toolkit of support libraries and Ruby core extensions extracted from the Rails framework.",
+      "purl": "pkg:gem/activesupport@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "dde769b17edc4c2402c940a4cb1b6efc3eb046ffef42da606452d36e6a9bde14"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "acts-as-taggable-on",
+      "version": "6.5.0",
+      "description": "Advanced tagging for Rails.",
+      "purl": "pkg:gem/acts-as-taggable-on@6.5.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "eadd6c232a03498d8b7031049d725ac5b16c0324784668a5a7d4a86e506a70db"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "addressable",
+      "version": "2.6.0",
+      "description": "URI Implementation",
+      "purl": "pkg:gem/addressable@2.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d490ad06dfc421503e659a12597d6bb0273b5cd7ff2789a1ec27210b1914952d"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "administrate",
+      "version": "0.17.0",
+      "description": "A Rails engine for creating super-flexible admin dashboards",
+      "purl": "pkg:gem/administrate@0.17.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d5e1b3f219eeeeb6e9d5a4f6ec6e446f83dfdb9b467c8eb7e6de5316a0a66928"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ancestry",
+      "version": "3.0.7",
+      "description": "Organize ActiveRecord model into a tree structure",
+      "purl": "pkg:gem/ancestry@3.0.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "38033d6933166d98b38da09ee331575d25bf0cb02751a24ce1ef9722e1a340ed"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "arel",
+      "version": "9.0.0",
+      "description": "Arel Really Exasperates Logicians  Arel is a SQL AST manager for Ruby",
+      "purl": "pkg:gem/arel@9.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "60da926cea65e70817cc5a3b292c37af556b88d542276ec6332e983c2be567ca"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ast",
+      "version": "2.4.0",
+      "description": "A library for working with Abstract Syntax Trees.",
+      "purl": "pkg:gem/ast@2.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a7270b78d8c970e90a5b932471c691e3ca74aa8be030f1a954d38ec487d79aa0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "audited",
+      "version": "4.7.1",
+      "description": "Log all changes to your models",
+      "purl": "pkg:gem/audited@4.7.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e2533dfc42a499b685261978680b9f2244b632ba8979528a486e3827f2483511"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "autoprefixer-rails",
+      "version": "6.5.4",
+      "description": "Parse CSS and add vendor prefixes to CSS rules using values from the Can I Use website.",
+      "purl": "pkg:gem/autoprefixer-rails@6.5.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "50001555168164f23f30c82bcfbfdeb5ecfb087eeb5f227cd309b8e551c4cf0e"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "awesome_print",
+      "version": "1.9.2",
+      "description": "Pretty print Ruby objects with proper indentation and colors",
+      "purl": "pkg:gem/awesome_print@1.9.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e99b32b704acff16d768b3468680793ced40bfdc4537eb07e06a4be11133786e"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "aws-partitions",
+      "version": "1.44.0",
+      "description": "Provides information about AWS partitions, regions, and services.",
+      "purl": "pkg:gem/aws-partitions@1.44.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "bf7728e07e40899a081342df51ad127ef538c6af90cfc91450d0472e3c66e4f1"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "aws-sdk-comprehend",
+      "version": "1.0.0",
+      "description": "AWS SDK for Ruby - Amazon Comprehend",
+      "purl": "pkg:gem/aws-sdk-comprehend@1.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4f29a4ab8289c133ed04325db2378608b444db0ad5531a626f72d4966374d15d"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "aws-sdk-core",
+      "version": "3.11.0",
+      "description": "AWS SDK for Ruby - Core",
+      "purl": "pkg:gem/aws-sdk-core@3.11.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0f50917d90f6d1b3b9ed102e7d2c11840b220fbcf81e27b904dee2d895f05b1c"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "aws-sigv4",
+      "version": "1.0.2",
+      "description": "AWS Signature Version 4 library.",
+      "purl": "pkg:gem/aws-sigv4@1.0.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "746efa6929bf16ec88b2768f04c53841c987dd28137c864366c6d7d985ff183c"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "axiom-types",
+      "version": "0.1.1",
+      "description": "Abstract types for logic programming",
+      "purl": "pkg:gem/axiom-types@0.1.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c1ff113f3de516fa195b2db7e0a9a95fd1b08475a502ff660d04507a09980383"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "bcrypt",
+      "version": "3.1.13",
+      "description": "OpenBSD's bcrypt() password hashing algorithm.",
+      "purl": "pkg:gem/bcrypt@3.1.13",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "976a1afc2b10e78cb8017ffb76583361a867ef4d60d6588558c08e274ba8202a"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "browser-timezone-rails",
+      "version": "1.1.0",
+      "description": "Sets the browser timezone within rails",
+      "purl": "pkg:gem/browser-timezone-rails@1.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5f3d4c727cfa0ea034e2ad2547d25298bcb2e5724ff1ada8ba33e6a279df5a1a"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "builder",
+      "version": "3.2.4",
+      "description": "Builders for MarkUp.",
+      "purl": "pkg:gem/builder@3.2.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "99caf08af60c8d7f3a6b004029c4c3c0bdaebced6c949165fe98f1db27fbbc10"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "business_time",
+      "version": "0.9.2",
+      "description": "Support for doing time math in business hours and days",
+      "purl": "pkg:gem/business_time@0.9.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "dbfea363b16106dacd8320b2097c40f7a4116a095fbbf7560679505d2b7ee803"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "byebug",
+      "version": "9.0.6",
+      "description": "Ruby 2.0 fast debugger - base + CLI",
+      "purl": "pkg:gem/byebug@9.0.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "60b508d685ecbdd0ce4c8508527e893b27b4461a347564c589b0bd5c8c656ecd"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-2-Clause"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "callsite",
+      "version": "0.0.11",
+      "description": "Caller/backtrace parser with some useful utilities for manipulating the load path, and doing other relative things.",
+      "purl": "pkg:gem/callsite@0.0.11",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "217ff702ccf3174f8dd72bcaa785673ce1c3a98c6fc0380641b4c5d8da0d99a3"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "capybara",
+      "version": "3.30.0",
+      "description": "Capybara aims to simplify the process of integration testing Rack applications, such as Rails, Sinatra or Merb",
+      "purl": "pkg:gem/capybara@3.30.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "12eafb03559c0c22bd5574870e709aa018df42c4db0b6ea3c4670a2022a84b3a"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "celluloid",
+      "version": "0.17.3",
+      "description": "Actor-based concurrent object framework for Ruby",
+      "purl": "pkg:gem/celluloid@0.17.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "afe25394c5954e3b14131389bb0550259deadaf37d90978b8399b6390f4e2282"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "celluloid-essentials",
+      "version": "0.20.5",
+      "description": "Internally used tools, and superstructural dependencies of Celluloid",
+      "purl": "pkg:gem/celluloid-essentials@0.20.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3388206d134eaf2ec262f537bbdefb9e855956039888c0f901b2493ece1d97d0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "celluloid-extras",
+      "version": "0.20.5",
+      "description": "Celluloid expansion, testing, and example classes.",
+      "purl": "pkg:gem/celluloid-extras@0.20.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "cf9ea7203793a25c20a7cb100c663b2480f25978c5ce41c696e85ca7ed7e0a1d"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "celluloid-fsm",
+      "version": "0.20.5",
+      "description": "Celluloid Finite State Machines",
+      "purl": "pkg:gem/celluloid-fsm@0.20.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6c47aa938d7d8edb674594c21453e8b7d11a26a5a66543ee67f32e45a089b7de"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "celluloid-io",
+      "version": "0.17.3",
+      "description": "Celluloid::IO allows you to monitor multiple IO objects within a Celluloid actor",
+      "purl": "pkg:gem/celluloid-io@0.17.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "248c9a3f91612eaea6b1625f4742e92e93d24129ce1d7eb8ee6c277894bc2cbb"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "celluloid-pool",
+      "version": "0.20.5",
+      "description": "An implementation of an actor pool, based on the Celluloid concurrent object framework.",
+      "purl": "pkg:gem/celluloid-pool@0.20.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ac9453bfb063582913712131aab5f0c026e7c82d0e2e4531b4ab242a2329d9ad"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "celluloid-supervision",
+      "version": "0.20.6",
+      "description": "Celluloid Supervision",
+      "purl": "pkg:gem/celluloid-supervision@0.20.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "fc6fc4840ecaf5080a703c75b3eda0cde7e28d81c6435d4b05ba569dc37b81ac"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "chronic",
+      "version": "0.10.2",
+      "description": "Natural language date/time parsing.",
+      "purl": "pkg:gem/chronic@0.10.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "766f2fcce6ac3cc152249ed0f2b827770d3e517e2e87c5fba7ed74f4889d2dc3"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "cliver",
+      "version": "0.3.2",
+      "description": "Cross-platform version constraints for cli tools",
+      "purl": "pkg:gem/cliver@0.3.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8775445218c612bb57f50c392c4906a1ab5cca067eab093bde3cc77d6426ce24"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "coderay",
+      "version": "1.1.1",
+      "description": "Fast syntax highlighting for selected languages.",
+      "purl": "pkg:gem/coderay@1.1.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "79a42eba4cbe2b056ba253eb02d1a7aec74ca951e54f33098830641e8748dff4"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "coercible",
+      "version": "1.0.0",
+      "description": "Powerful, flexible and configurable coercion library. And nothing more.",
+      "purl": "pkg:gem/coercible@1.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5081ad24352cc8435ce5472bc2faa30260c7ea7f2102cc6a9f167c4d9bffaadc"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "coffee-rails",
+      "version": "4.2.2",
+      "description": "CoffeeScript adapter for the Rails asset pipeline.",
+      "purl": "pkg:gem/coffee-rails@4.2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "080a5c49e9568019018a8699cf80f7ea8e7b841744d832a98ac6b4c8e40be84a"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "coffee-script",
+      "version": "2.4.1",
+      "description": "Ruby CoffeeScript Compiler",
+      "purl": "pkg:gem/coffee-script@2.4.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "82fe281e11b93c8117b98c5ea8063e71741870f1c4fbb27177d7d6333dd38765"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "coffee-script-source",
+      "version": "1.11.1",
+      "description": "The CoffeeScript Compiler",
+      "purl": "pkg:gem/coffee-script-source@1.11.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "096ee2a4c29e286077292da31675199cd7a0e9e308319e86410e01f42984da75"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "concurrent-ruby",
+      "version": "1.1.10",
+      "description": "Modern concurrency tools for Ruby. Inspired by Erlang, Clojure, Scala, Haskell, F#, C#, Java, and classic concurrency patterns.",
+      "purl": "pkg:gem/concurrent-ruby@1.1.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "244cb1ca0d91ec2c15ca2209507c39fb163336994428e16fbd3f465c87bd8e68"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "connection_pool",
+      "version": "2.2.5",
+      "description": "Generic connection pool for Ruby",
+      "purl": "pkg:gem/connection_pool@2.2.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "13a8fc3921ce4df8e04fb65f1037251decb08d74757b41163688bd1c1feccd39"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "crack",
+      "version": "0.4.5",
+      "description": "Really simple JSON and XML parsing, ripped from Merb and Rails.",
+      "purl": "pkg:gem/crack@0.4.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "798416fb29b8c9f655d139d5559169b39c4a0a3b8f8f39b7f670eec1af9b21b3"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "crass",
+      "version": "1.0.6",
+      "description": "CSS parser based on the CSS Syntax Level 3 spec.",
+      "purl": "pkg:gem/crass@1.0.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "dc516022a56e7b3b156099abc81b6d2b08ea1ed12676ac7a5657617f012bd45d"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "datetime_picker_rails",
+      "version": "0.0.7",
+      "description": "Bootstrap3 bootstrap-datetimepicker\"s JS + CSS for Rails 3.1+ asset pipeline.",
+      "purl": "pkg:gem/datetime_picker_rails@0.0.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a784dd3150d4b19076e74fb122cb03bd10f9c1b22331f1fcf2cad38bbe1d6e91"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "debug_inspector",
+      "version": "0.0.2",
+      "description": "A Ruby wrapper for the MRI 2.0 debug_inspector API",
+      "purl": "pkg:gem/debug_inspector@0.0.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1594188ffd35b9973fa1e048497e4aa63abad0c3cbba0670e17935005e302781"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "declarative",
+      "version": "0.0.10",
+      "description": "DSL for nested schemas.",
+      "purl": "pkg:gem/declarative@0.0.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b26cfbd229fc54256132636a6073c67d3ca22a3f86bc15ee1cf1adfff9ee8218"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "declarative-option",
+      "version": "0.1.0",
+      "description": "Dynamic options to evaluate at runtime.",
+      "purl": "pkg:gem/declarative-option@0.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "17508349f51c5631e5ad4158c29f78a4b2de618abffa066d76c11953705f91bc"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "default_value_for",
+      "version": "3.3.0",
+      "description": "Provides a way to specify default values for ActiveRecord models",
+      "purl": "pkg:gem/default_value_for@3.3.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "be1635239c952cb007202320375da54dfb9f0e8e54c7238c25adaf51b1b51c22"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "descendants_tracker",
+      "version": "0.0.4",
+      "description": "Module that adds descendant tracking to a class",
+      "purl": "pkg:gem/descendants_tracker@0.0.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e9c41dd4cfbb85829a9301ea7e7c48c2a03b26f09319db230e6479ccdc780897"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "devise",
+      "version": "4.6.2",
+      "description": "Flexible authentication solution for Rails with Warden",
+      "purl": "pkg:gem/devise@4.6.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8e4d99335393140debd6c9aee96d949217d2a6dd1552a191a566395c83b96211"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "devise_invitable",
+      "version": "1.7.2",
+      "description": "An invitation strategy for Devise",
+      "purl": "pkg:gem/devise_invitable@1.7.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "983c9afa1a71364587011f9f3cfffb8d4b44d56cf3680c86b6d5dddbe092fba1"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "devise_masquerade",
+      "version": "0.6.5",
+      "description": "use for login as functionallity on your admin users pages",
+      "purl": "pkg:gem/devise_masquerade@0.6.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f8067160d5b4ea2a8f56478a5489e53a96deadf4c674c1b6539bd03f3f5091d8"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "diff-lcs",
+      "version": "1.3",
+      "description": "Diff::LCS computes the difference between two Enumerable sequences using the McIlroy-Hunt longest common subsequence (LCS) algorithm",
+      "purl": "pkg:gem/diff-lcs@1.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ea7bf591567e391ef262a7c29edaf87c6205204afb5bb39dfa8f08f2e51282a3"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "domain_name",
+      "version": "0.5.20190701",
+      "description": "Domain Name manipulation library for Ruby",
+      "purl": "pkg:gem/domain_name@0.5.20190701",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "000a600454cb4a344769b2f10b531765ea7bd3a304fe47ed12e5ca1eab969851"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-2-Clause"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "doorkeeper",
+      "version": "5.6.0",
+      "description": "OAuth 2 provider for Rails and Grape",
+      "purl": "pkg:gem/doorkeeper@5.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7cfaf1891c236df1e26e450e221ad2304da8e2b1015a8c3e807d37b73b86cefe"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "dotenv",
+      "version": "2.7.5",
+      "description": "Loads environment variables from `.env`.",
+      "purl": "pkg:gem/dotenv@2.7.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c5465769f188f96a62a6cc1f801f440af077b06b788a14f66760a5178569139e"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "dotenv-rails",
+      "version": "2.7.5",
+      "description": "Autoload dotenv in Rails.",
+      "purl": "pkg:gem/dotenv-rails@2.7.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e0de69bc28b84658626e9048cb8fbc4791420f4b0b5fb5b5bb35414235090a09"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "e2mmap",
+      "version": "0.1.0",
+      "description": "Module for defining custom exceptions with specific messages.",
+      "purl": "pkg:gem/e2mmap@0.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "45ee6bba2d97a7d91ee0885774261feee87e28c598355df31e93b56196ec0f59"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-2-Clause"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "equalizer",
+      "version": "0.0.11",
+      "description": "Module to define equality, equivalence and inspection methods",
+      "purl": "pkg:gem/equalizer@0.0.11",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "44e5bc46f49883e83d159ee9b1f7320b4ae8283bb6329e5d9716f5e7dde855ce"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "erubi",
+      "version": "1.10.0",
+      "description": "Small ERB Implementation",
+      "purl": "pkg:gem/erubi@1.10.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "543802c294f917653feb650e0e77cbc33018cdb2da7910294aa80220c7a78826"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "erubis",
+      "version": "2.7.0",
+      "description": "a fast and extensible eRuby implementation which supports multi-language",
+      "purl": "pkg:gem/erubis@2.7.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "63653f5174a7997f6f1d6f465fbe1494dcc4bdab1fb8e635f6216989fb1148ba"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "et-orbi",
+      "version": "1.2.4",
+      "description": "time with zones",
+      "purl": "pkg:gem/et-orbi@1.2.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "77e70e19b5258ae05b12522809d83612a624e488201511da09fd7742318a2877"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "excon",
+      "version": "0.54.0",
+      "description": "speed, persistence, http(s)",
+      "purl": "pkg:gem/excon@0.54.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a32d6e509dd99b9b201c4d3a50b08e4ea7279dfc99bc05332799a00d92368b48"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "execjs",
+      "version": "2.7.0",
+      "description": "Run JavaScript code from Ruby",
+      "purl": "pkg:gem/execjs@2.7.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e1fae0c5c831934c47d92363b4ea66ef2951350ab91b5d8d3174342b9c2ee5fb"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "factory_bot",
+      "version": "4.11.1",
+      "description": "factory_bot provides a framework and DSL for defining and using model instance factories.",
+      "purl": "pkg:gem/factory_bot@4.11.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e1c15ffe8c9f4e33e5b0bd9b2fddceea3fac1fd48a3c7a9101219555e359018f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "factory_bot_rails",
+      "version": "4.11.1",
+      "description": "factory_bot_rails provides integration between factory_bot and rails 3 or newer",
+      "purl": "pkg:gem/factory_bot_rails@4.11.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5f54d54a1599f0ce1e86d0f1af7890b7380a921ea927ad0700230c8756d575de"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "faker",
+      "version": "1.7.2",
+      "description": "Easily generate fake data",
+      "purl": "pkg:gem/faker@1.7.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7932dae48b6c7d57c96dbc2fe7a90b92342482f04ac0f74f1480cbd35d099f23"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "faraday",
+      "version": "0.17.5",
+      "description": "HTTP/REST API client library.",
+      "purl": "pkg:gem/faraday@0.17.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d75c5d9c78a9b23bb96f2b30b27fcc3cd841e645374c8b309fe388c641a5422f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "faraday_middleware",
+      "version": "0.14.0",
+      "description": "Various middleware for Faraday",
+      "purl": "pkg:gem/faraday_middleware@0.14.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4cb37ddd656b2c4de0bd684b72b08c34486f70560c31cb303cd506faef7ef2f4"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ffi",
+      "version": "1.15.5",
+      "description": "Ruby FFI",
+      "purl": "pkg:gem/ffi@1.15.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6f2ed2fa68047962d6072b964420cba91d82ce6fa8ee251950c17fca6af3c2a0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-3-Clause"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "flipper",
+      "version": "0.20.4",
+      "description": "Feature flipper for ANYTHING",
+      "purl": "pkg:gem/flipper@0.20.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e10c43e09177e2245d1622013232afde02cfc40f5b88784906a62811e469b6bd"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "flipper-active_record",
+      "version": "0.20.4",
+      "description": "ActiveRecord adapter for Flipper",
+      "purl": "pkg:gem/flipper-active_record@0.20.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2ec6b9775f59a76696a755547125b8516ce996dcc68bd5883d2a869033315d10"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "flipper-ui",
+      "version": "0.20.4",
+      "description": "UI for the Flipper gem",
+      "purl": "pkg:gem/flipper-ui@0.20.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "34296943f60b43b14c862aa9a39946dac8d74d612f23c2d4decc661e797cc969"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "foreman",
+      "version": "0.84.0",
+      "description": "Process manager for applications with multiple components",
+      "purl": "pkg:gem/foreman@0.84.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "806b1e86a9359d2e60d528e48ec05a965110514b4d414e7f5f27b07a691ab81a"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "friendly_id",
+      "version": "5.2.0",
+      "description": "A comprehensive slugging and pretty-URL plugin.",
+      "purl": "pkg:gem/friendly_id@5.2.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b62897e3af90fd808940f8f546251b681ea4b91d1f3bdc12eebfb9a8c96b2c69"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "fugit",
+      "version": "1.3.4",
+      "description": "time tools for flor",
+      "purl": "pkg:gem/fugit@1.3.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "42626d08f0ca559b11519f73256d04f7bc92eff64f328b70e20d08c354ae39a5"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "gemojione",
+      "version": "4.3.3",
+      "description": "A gem for EmojiOne",
+      "purl": "pkg:gem/gemojione@4.3.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "aa462341a968d3e1890e2a0c749a287fbfa74d4cff7269f8e0e2e47787288d3b"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "gli",
+      "version": "2.19.2",
+      "description": "Build command-suite CLI apps that are awesome.",
+      "purl": "pkg:gem/gli@2.19.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7b4305602d4c2cb02dd5e54a67eae81cd7adc5b940f9a0e4b03a02417745a960"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "globalid",
+      "version": "1.0.0",
+      "description": "Refer to any model with a URI: gid://app/class/id",
+      "purl": "pkg:gem/globalid@1.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1253641b1dc3392721c964351773755d75135d3d3c5cc65d88b0a3880a60bed8"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "google-api-client",
+      "version": "0.52.0",
+      "description": "Client for accessing Google APIs",
+      "purl": "pkg:gem/google-api-client@0.52.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6b0c0add28e8bb057451760168fac5602cd3319201647dc439ce6de7bdd734e0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "googleauth",
+      "version": "0.16.2",
+      "description": "Google Auth Library for Ruby",
+      "purl": "pkg:gem/googleauth@0.16.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "057c72865a94a5c55d51fb8702635dfb0fe02085f67a417542285cb61022c75f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "grape",
+      "version": "1.0.1",
+      "description": "A simple Ruby framework for building REST-like APIs.",
+      "purl": "pkg:gem/grape@1.0.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d66c3a7faf88eed3fed61de068527e75c09060228bbcaaa1e059617493475af4"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "grape-roar",
+      "version": "0.4.1",
+      "description": "Enable Resource-Oriented Architectures in Grape API DSL",
+      "purl": "pkg:gem/grape-roar@0.4.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8085bc9cd1fb57c41131f574ae508a25389fb3361b851e7a4b4e5b649aad5f88"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "grape-swagger",
+      "version": "0.27.3",
+      "description": "Add auto generated documentation to your Grape API that can be displayed with Swagger.",
+      "purl": "pkg:gem/grape-swagger@0.27.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ea53cbf2dffcf224aa558b3656c2f6a604fe48bb5f9cfe831b937e17eb816e5f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "graphiql-rails",
+      "version": "1.7.0",
+      "description": "A mountable GraphiQL endpoint for Rails",
+      "purl": "pkg:gem/graphiql-rails@1.7.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "384aff3d6045fa3d9ed8e03893b6f344e6cc797cef89f2679f518e01ffd27380"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "graphql",
+      "version": "1.11.4",
+      "description": "A GraphQL language and runtime for Ruby",
+      "purl": "pkg:gem/graphql@1.11.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "658e18daf9c0267215e37c335c12c5497088c30ea126d6772ccfd1542cec8d06"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "gravatar-ultimate",
+      "version": "2.0.0",
+      "description": "A gem for interfacing with the entire Gravatar API: not just images, but the XML-RPC API too!",
+      "purl": "pkg:gem/gravatar-ultimate@2.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "91906819454b8969a36ef39b717924b3773ceb904b3e124447b28beb753c0271"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "groupdate",
+      "version": "4.1.2",
+      "description": "The simplest way to group temporal data",
+      "purl": "pkg:gem/groupdate@4.1.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "956638b0ef2f2d2101debb87e9ce57c5363999ec4ba8d652e6c1de2b4a502eba"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "haml",
+      "version": "5.2.2",
+      "description": "An elegant, structured (X)HTML/XML templating engine.",
+      "purl": "pkg:gem/haml@5.2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6e759246556145642ef832d670fc06f9bd8539159a0e600847a00291dd7aae0c"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "hashdiff",
+      "version": "0.3.7",
+      "description": "HashDiff is a diff lib to compute the smallest difference between two hashes.",
+      "purl": "pkg:gem/hashdiff@0.3.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e94a08689f724a571556b78d5ca35214033d3961972d58c4611245c4b3a0457a"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "hashie",
+      "version": "3.5.6",
+      "description": "Your friendly neighborhood hash library.",
+      "purl": "pkg:gem/hashie@3.5.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "27e2a7f7c52b3a927daa928546cce8fc540a16bc2dc4ad8e740cf209459b1588"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "heroics",
+      "version": "0.0.23",
+      "description": "A Ruby client generator for HTTP APIs described with a JSON schema",
+      "purl": "pkg:gem/heroics@0.0.23",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f43d907903653c557a9d3157853cb3ea5359f1f206118e0cce9396def33959f2"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "hitimes",
+      "version": "1.2.6",
+      "description": "A fast, high resolution timer library for recording peformance metrics.",
+      "purl": "pkg:gem/hitimes@1.2.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "607d0855486659f725b71ac62b30933f47b5630d0f6a79faa9341d4224f9eabf"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "ISC"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "http-accept",
+      "version": "1.7.0",
+      "description": "Parse Accept and Accept-Language HTTP headers.",
+      "purl": "pkg:gem/http-accept@1.7.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c626860682bfbb3b46462f8c39cd470fd7b0584f61b3cc9df5b2e9eb9972a126"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "http-cookie",
+      "version": "1.0.3",
+      "description": "A Ruby library to handle HTTP Cookies based on RFC 6265",
+      "purl": "pkg:gem/http-cookie@1.0.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2f11269d817bc52ab2af2721e89a377660a961078de2a3a55fc696d7897e8c00"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "httparty",
+      "version": "0.21.0",
+      "description": "Makes http fun! Also, makes consuming restful web services dead easy.",
+      "purl": "pkg:gem/httparty@0.21.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "00ef7bf9a71f30a3bff88edeb5b16a34bea883ab67c246b3f0db2d6794fe1214"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "httpclient",
+      "version": "2.8.3",
+      "description": "gives something like the functionality of libwww-perl (LWP) in Ruby",
+      "purl": "pkg:gem/httpclient@2.8.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2951e4991214464c3e92107e46438527d23048e634f3aee91c719e0bdfaebda6"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "name": "ruby"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "humanize",
+      "version": "1.7.0",
+      "description": "Extension to Numeric to humanize numbers",
+      "purl": "pkg:gem/humanize@1.7.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "41b70344fe452c1c072a7185fae4caf6bef19ea47ff874e9a4d130b95f9443ba"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "i18n",
+      "version": "0.7.0",
+      "description": "New wave Internationalization support for Ruby",
+      "purl": "pkg:gem/i18n@0.7.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a81cd327bd0f2c490ecf9f62f4a91ffaf5061aa2bf22cdbafe1a7e44a70fbfc4"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ice_cube",
+      "version": "0.16.3",
+      "description": "Ruby Date Recurrence Library",
+      "purl": "pkg:gem/ice_cube@0.16.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9803579faa4fdf4f39b1ff4b76bfa6d51e30ddd4e6e4ff37be571aff7ef3eee7"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ice_nine",
+      "version": "0.11.2",
+      "description": "Deep Freeze Ruby Objects",
+      "purl": "pkg:gem/ice_nine@0.11.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5d506a7d2723d5592dc121b9928e4931742730131f22a1a37649df1c1e2e63db"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "inline_svg",
+      "version": "1.7.2",
+      "description": "Embeds an SVG document, inline.",
+      "purl": "pkg:gem/inline_svg@1.7.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5674147e5f66a01860a7a10dd458d7d46f017d401d9e3b0f0f8ce85670b6e460"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "jaro_winkler",
+      "version": "1.5.1",
+      "description": "An implementation of Jaro-Winkler distance algorithm written \\ in C extension which supports any kind of string encoding.",
+      "purl": "pkg:gem/jaro_winkler@1.5.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "87630610f82a5041466fb01711fd3478418a14a8de59c10f1c30e1b2695e6e79"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "jbuilder",
+      "version": "2.7.0",
+      "description": "Create JSON structures via a Builder-style DSL",
+      "purl": "pkg:gem/jbuilder@2.7.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "52402f979c2f79f229d0df4d5bfedd2533e24316bfb1b7fe6fd1362826f675d8"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "jmespath",
+      "version": "1.3.1",
+      "description": "JMESPath - Ruby Edition",
+      "purl": "pkg:gem/jmespath@1.3.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7efca9cabe1c34a1064eb4ef73b51c4e92a3bf4014a68265dc0aa7f2e48d881f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache 2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "jquery-rails",
+      "version": "4.4.0",
+      "description": "Use jQuery with Rails 4+",
+      "purl": "pkg:gem/jquery-rails@4.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b1048e5bf181b94dcac82d28a4696cd79c6200167a024a07f57607ab28aa7036"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "js_cookie_rails",
+      "version": "2.2.0",
+      "description": "Adds js-cookie to the Rails asset pipeline.",
+      "purl": "pkg:gem/js_cookie_rails@2.2.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "06e6b27ee093945c3acf3982d2dbf9e9117d1130f33bb07e1660ebea68229c62"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "json",
+      "version": "2.3.1",
+      "description": "JSON implementation for JRuby",
+      "purl": "pkg:gem/json@2.3.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "042143ef80ce2a3e957cfc177400f6f3e1da0839caf6c93bed526a1701f66875"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Ruby"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "jsonb_accessor",
+      "version": "1.3.4",
+      "description": "Adds typed jsonb backed fields to your ActiveRecord models.",
+      "purl": "pkg:gem/jsonb_accessor@1.3.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d5da46500ff4f6a465f5bd734ba410b1bcf6212b385b53cd6f08875c4204de68"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "jwt",
+      "version": "2.2.3",
+      "description": "JSON Web Token implementation in Ruby",
+      "purl": "pkg:gem/jwt@2.2.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "da2d43a5f7ff46037abd426574ce558adf1409ac83f09a88aee58804982bd10c"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "kaminari",
+      "version": "1.2.2",
+      "description": "A pagination engine plugin for Rails 4+ and other modern frameworks",
+      "purl": "pkg:gem/kaminari@1.2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c4076ff9adccc6109408333f87b5c4abbda5e39dc464bd4c66d06d9f73442a3e"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "kaminari-actionview",
+      "version": "1.2.2",
+      "description": "Kaminari Action View adapter",
+      "purl": "pkg:gem/kaminari-actionview@1.2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1330f6fc8b59a4a4ef6a549ff8a224797289ebf7a3a503e8c1652535287cc909"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "kaminari-activerecord",
+      "version": "1.2.2",
+      "description": "Kaminari Active Record adapter",
+      "purl": "pkg:gem/kaminari-activerecord@1.2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0dd3a67bab356a356f36b3b7236bcb81cef313095365befe8e98057dd2472430"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "kaminari-core",
+      "version": "1.2.2",
+      "description": "Kaminari's core pagination library",
+      "purl": "pkg:gem/kaminari-core@1.2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3bd26fec7370645af40ca73b9426a448d09b8a8ba7afa9ba3c3e0d39cdbb83ff"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "knapsack",
+      "version": "1.17.1",
+      "description": "Knapsack splits tests across CI nodes and makes sure that tests will run comparable time on each node.",
+      "purl": "pkg:gem/knapsack@1.17.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "bc801df88b0caa9a7689a44ac9fea9fde04bc745abf42e8bcd55937b267650e3"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "launchy",
+      "version": "2.4.3",
+      "description": "Launchy is helper class for launching cross-platform applications in a fire and forget manner.",
+      "purl": "pkg:gem/launchy@2.4.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "21c4924d9905d2ebc609145d858a91ddb11a0f1949567fc3df479b1057fbddf9"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "ISC"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "letter_opener",
+      "version": "1.7.0",
+      "description": "Preview mail in browser instead of sending.",
+      "purl": "pkg:gem/letter_opener@1.7.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "095bc0d58e006e5b43ea7d219e64ecf2de8d1f7d9dafc432040a845cf59b4725"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "listen",
+      "version": "3.0.8",
+      "description": "Listen to file modifications",
+      "purl": "pkg:gem/listen@3.0.8",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "91845635a094f81de2af4ec334340dd8458d9b86486471c2dc9747e7173c1ed0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "lol_dba",
+      "version": "2.1.4",
+      "description": "A small package of rake tasks to track down missing database indexes and generate sql migration scripts",
+      "purl": "pkg:gem/lol_dba@2.1.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e4b7858238602fc400b217035af1c0761fcd335531d937d9152bbecdb401e847"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "loofah",
+      "version": "2.15.0",
+      "description": "Loofah is a general library for manipulating and transforming HTML/XML documents and fragments, built on top of Nokogiri",
+      "purl": "pkg:gem/loofah@2.15.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "43f07a44426c7873937e307e0c6b81632ba9e89fcb5089badd78b67b6480e1fa"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mail",
+      "version": "2.7.1",
+      "description": "Mail provides a nice Ruby DSL for making, sending and reading emails.",
+      "purl": "pkg:gem/mail@2.7.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ec2a3d489f7510b90d8eaa3f6abaad7038cf1d663cdf8ee66d0214a0bdf99c03"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "marcel",
+      "version": "1.0.2",
+      "description": "Simple mime type detection using magic numbers, filenames, and extensions",
+      "purl": "pkg:gem/marcel@1.0.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a013b677ef46cbcb49fd5c59b3d35803d2ee04dd75d8bfdc43533fc5a31f7e4e"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "memoist",
+      "version": "0.16.0",
+      "description": "memoize methods invocation",
+      "purl": "pkg:gem/memoist@0.16.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "70bd755b48477c9ef9601daa44d298e04a13c1727f8f9d38c34570043174085f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "meta_request",
+      "version": "0.5.0",
+      "description": "Request your Rails request",
+      "purl": "pkg:gem/meta_request@0.5.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f1ed94466658bd888e0c107e5fcfd034dd01b120d533d1f8ae4da1e5f106a159"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "method_source",
+      "version": "0.8.2",
+      "description": "retrieve the sourcecode for a method",
+      "purl": "pkg:gem/method_source@0.8.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c2e9d0f4ebefd6b37efe38fe2964337b1d315fe198cad850681fd2da0027b1bc"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mime-types",
+      "version": "3.3.1",
+      "description": "The mime-types library provides a library and registry for information about MIME content type definitions",
+      "purl": "pkg:gem/mime-types@3.3.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "708f737e28ceef48b9a1bc041aa9eec46fa36eb36acb95e6b64a9889131541fe"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mime-types-data",
+      "version": "3.2020.1104",
+      "description": "mime-types-data provides a registry for information about MIME media type definitions",
+      "purl": "pkg:gem/mime-types-data@3.2020.1104",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4fb1eeb8e3fbe88059c751adc6a96322b8f2c89403db8928bb9bda64b9f3f246"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mini_mime",
+      "version": "1.1.2",
+      "description": "A lightweight mime type lookup toy",
+      "purl": "pkg:gem/mini_mime@1.1.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a54aec0cc7438a03a850adb00daca2bdb60747f839e28186994df057cea87151"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mini_portile2",
+      "version": "2.8.0",
+      "description": "Simplistic port-like solution for developers",
+      "purl": "pkg:gem/mini_portile2@2.8.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1e06b286ff19b73cfc9193cb3dd2bd80416f8262443564b25b23baea74a05765"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "minitest",
+      "version": "5.16.2",
+      "description": "minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking",
+      "purl": "pkg:gem/minitest@5.16.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c1be0c6b57fab451faa08e74ffa71e7d6a259b90f4bacb881c7f4808ec8b4991"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "momentjs-rails",
+      "version": "2.29.1.1",
+      "description": "The Moment.js JavaScript library ready to play with Rails.",
+      "purl": "pkg:gem/momentjs-rails@2.29.1.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9085479d82401c7ec0a5cc86fc214856e9a59b7a18e172b4c44f50692b452bd5"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "moneta",
+      "version": "0.8.1",
+      "description": "A unified interface to key/value stores, including Redis, Memcached, TokyoCabinet, ActiveRecord and many more",
+      "purl": "pkg:gem/moneta@0.8.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9367f8d07b550877c88d5b1560a3341543fd16ada4b60cedc892d564e0c2f52f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "money",
+      "version": "6.8.1",
+      "description": "A Ruby Library for dealing with money and currency conversion.",
+      "purl": "pkg:gem/money@6.8.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6b713e3c0c692faa69769c06ffd0621f1b87e00c62f77ceb795fc46d1b80d424"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "multi_json",
+      "version": "1.12.1",
+      "description": "A common interface to multiple JSON libraries.",
+      "purl": "pkg:gem/multi_json@1.12.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b387722b0a31fff619a2682c7011affb5a13fed2cce240c75c5d6ca3e910ecf2"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "multi_xml",
+      "version": "0.6.0",
+      "description": "A generic swappable back-end for XML parsing",
+      "purl": "pkg:gem/multi_xml@0.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d24393cf958adb226db884b976b007914a89c53ad88718e25679d7008823ad52"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "multipart-post",
+      "version": "2.2.3",
+      "description": "A multipart form post accessory for Net::HTTP.",
+      "purl": "pkg:gem/multipart-post@2.2.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "462979de2971b8df33c2ee797fd497731617241f9dcd93960cc3caccb2dd13d8"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mustermann",
+      "version": "1.0.1",
+      "description": "Your personal string matching expert.",
+      "purl": "pkg:gem/mustermann@1.0.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5b6ac679faa7e4de5de55d3d28e59c476f86e7f846a57754df75c9d6b685cd72"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mustermann-grape",
+      "version": "1.0.0",
+      "description": "Grape syntax for Mustermann",
+      "purl": "pkg:gem/mustermann-grape@1.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f9c3bab00b676b1a028aa894fbd0fffde7c7691891ae7bb0ca1651d9da7bad83"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "netrc",
+      "version": "0.11.0",
+      "description": "Library to read and write netrc files.",
+      "purl": "pkg:gem/netrc@0.11.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "de1ce33da8c99ab1d97871726cba75151113f117146becbe45aa85cb3dabee3f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "nio4r",
+      "version": "2.5.8",
+      "description": "New IO for Ruby",
+      "purl": "pkg:gem/nio4r@2.5.8",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b2b1800f6bf7ce4b797ca8b639ad278a99c9c904fb087a91d944f38e4bd71401"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "nokogiri",
+      "version": "1.13.9",
+      "description": "Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.",
+      "purl": "pkg:gem/nokogiri@1.13.9",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "96f37c1baf0234d3ae54c2c89aef7220d4a8a1b03d2675ff7723565b0a095531"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "nokogiri",
+      "version": "1.13.9",
+      "description": "Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.",
+      "purl": "pkg:gem/nokogiri@1.13.9",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "96f37c1baf0234d3ae54c2c89aef7220d4a8a1b03d2675ff7723565b0a095531"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "nokogiri",
+      "version": "1.13.9",
+      "description": "Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.",
+      "purl": "pkg:gem/nokogiri@1.13.9",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "96f37c1baf0234d3ae54c2c89aef7220d4a8a1b03d2675ff7723565b0a095531"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "orm_adapter",
+      "version": "0.5.0",
+      "description": "orm_adapter provides a single point of entry for using basic features of popular ruby ORMs.  Its target audience is gem authors who want to support many ruby ORMs.",
+      "purl": "pkg:gem/orm_adapter@0.5.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "aa5d0be5d540cbb46d3a93e88061f4ece6a25f6e97d6a47122beb84fe595e9b9"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "os",
+      "version": "1.1.1",
+      "description": "Simple and easy way to know if you're on windows or not (reliably), as well as how many bits the OS is, etc.",
+      "purl": "pkg:gem/os@1.1.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3db1fbc14ab8ea99b69ed8e353c894613e1b35e665fffb90414996cf8989d489"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "parallel",
+      "version": "1.12.1",
+      "description": "Run any kind of code in parallel processes",
+      "purl": "pkg:gem/parallel@1.12.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c7587c43687dcd4740b6ffcedb305b19cc1551a3e88da173b3857a8bc3461206"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "paranoia",
+      "version": "2.4.2",
+      "description": "Paranoia is a re-implementation of acts_as_paranoid for Rails 3, 4, and 5, using much, much, much less code.",
+      "purl": "pkg:gem/paranoia@2.4.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "97cda1624732623aae9a331ea624e2dc4eeb67b58611cb39d8545dddc09fab3b"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "parser",
+      "version": "2.5.1.2",
+      "description": "A Ruby parser written in pure Ruby.",
+      "purl": "pkg:gem/parser@2.5.1.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b32cef404a7f3acbcc4b845089c4716dddcc589ce84addbf66f6fa78de4fe8fe"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "pg",
+      "version": "1.3.4",
+      "description": "Pg is the Ruby interface to the PostgreSQL RDBMS",
+      "purl": "pkg:gem/pg@1.3.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6d87dd0d175d6102934fb51c531eb9ba3b58be1a92e78fc1b943341aa2572997"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-2-Clause"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "pghero",
+      "version": "2.5.0",
+      "description": "A performance dashboard for Postgres",
+      "purl": "pkg:gem/pghero@2.5.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5ec6397670ed1cf796128633626dfc814e7b44e6e536dbd085d7ec1333a2d61e"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "pgreset",
+      "version": "0.1.1",
+      "description": "Automatically kill postgres connections during db:reset",
+      "purl": "pkg:gem/pgreset@0.1.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1de04775229e5e056822fc8f50df2d1121d5eec51d7ef7395e2f1d75164b8214"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "picky",
+      "version": "4.31.3",
+      "description": "Picky: Semantic Search Engine. Clever Interface. Good Tools.",
+      "purl": "pkg:gem/picky@4.31.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "af1f547edfc927bcd5dcc8fdd2b89114af52d59a2a2fecf2d0e3bc372b6021b9"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "platform-api",
+      "version": "2.1.0",
+      "description": "Ruby HTTP client for the Heroku API.",
+      "purl": "pkg:gem/platform-api@2.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1a1c57e930c1f5b44cb3d86668efaacff82dbea61ee62ce914d8c40ed3c6c4c2"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "poltergeist",
+      "version": "1.18.1",
+      "description": "PhantomJS driver for Capybara",
+      "purl": "pkg:gem/poltergeist@1.18.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "25a9d7140e697794fd376d6fea89e6f3ec1706c0f901cab4d1b0ea7bd2058846"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "possessive",
+      "version": "1.0.1",
+      "description": "Rails plugin that lets you get a possessive form of a string for use on sites",
+      "purl": "pkg:gem/possessive@1.0.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f4ff32bbb22c40cf1fa92caf2f3f4a66969e7b0bbff2247ed9424fa23b9363a5"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "postmark",
+      "version": "1.21.3",
+      "description": "Official Postmark API wrapper.",
+      "purl": "pkg:gem/postmark@1.21.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c309c3bda5d1f696448ef1aaa10aeb0a83bff97e041d1c53908e7176029556f2"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "postmark-rails",
+      "version": "0.20.0",
+      "description": "Postmark adapter for ActionMailer",
+      "purl": "pkg:gem/postmark-rails@0.20.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "17b7c2ad4435ceef1365e03d8ba7a908e5fa5bb53a88635be1f4a51bab855017"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "postmark-spam_check",
+      "version": "0.1.0",
+      "description": "ruby client for http://spamcheck.postmarkapp.com/doc",
+      "purl": "pkg:gem/postmark-spam_check@0.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7043fcdbd9162c255588a6fdbaf486050daa84dd59cffde2a8fe2b365b107c14"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "powerpack",
+      "version": "0.1.2",
+      "description": "A few useful extensions to core Ruby classes.",
+      "purl": "pkg:gem/powerpack@0.1.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "dbc3c2ecb85ae830554135d1447171a8f24d901fa41beadacdc790c68f69a1e4"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "pry",
+      "version": "0.10.4",
+      "description": "An IRB alternative and runtime developer console",
+      "purl": "pkg:gem/pry@0.10.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5909a2bf85640bb757f930a03a528b55b8569ac0cba19df315520d63a3ffab17"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "public_suffix",
+      "version": "3.1.0",
+      "description": "Domain name parser based on the Public Suffix List.",
+      "purl": "pkg:gem/public_suffix@3.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b4987145e735f706a8c897f2643048abf9dab7b70b8a5388e430a43e7b2fecb0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "puma",
+      "version": "5.1.1",
+      "description": "Puma is a simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications",
+      "purl": "pkg:gem/puma@5.1.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "69d04974261bbd101acf6046c4787a8cdc7a0435941995af9a23965a51bc4b3d"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-3-Clause"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "raabro",
+      "version": "1.1.6",
+      "description": "a very dumb PEG parser library",
+      "purl": "pkg:gem/raabro@1.1.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "98faa43e0412faf7bceb7c719154b01ddca224ba394e06a671a31c44ecaaed77"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "racc",
+      "version": "1.6.0",
+      "description": "Racc is a LALR(1) parser generator",
+      "purl": "pkg:gem/racc@1.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d449a3c279026451b9fd5f34e829dc5f6e0ef6b9b472b7ff89fd3877fe8fe8cf"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Ruby"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rack",
+      "version": "2.2.3",
+      "description": "A modular Ruby webserver interface.",
+      "purl": "pkg:gem/rack@2.2.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2638e7eb6689a5725c7e16f30cc4aa4e31694dc3ca30d790952526781bd0bb44"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rack-accept",
+      "version": "0.4.5",
+      "description": "HTTP Accept* for Ruby/Rack",
+      "purl": "pkg:gem/rack-accept@0.4.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "66247b5449db64ebb93ae2ec4af4764b87d1ae8a7463c7c68893ac13fa8d4da2"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rack-contrib",
+      "version": "2.0.1",
+      "description": "Contributed Rack Middleware and Utilities",
+      "purl": "pkg:gem/rack-contrib@2.0.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "255d8e9c1349b40342753a4cfe1860064c68fec42d3eabf1fc280157b44b6587"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rack-cors",
+      "version": "1.0.2",
+      "description": "Middleware for enabling Cross-Origin Resource Sharing in Rack apps",
+      "purl": "pkg:gem/rack-cors@1.0.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2300c7108e0e9bcf197754c99ecce9aa6aadf0010dbd0ebf6778c1ba82df47c8"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rack-protection",
+      "version": "2.0.8.1",
+      "description": "Protect against typical web attacks, works with all Rack apps, including Rails.",
+      "purl": "pkg:gem/rack-protection@2.0.8.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d187dee7708ca93301854127e81b2675b60af86ab53532f9735087ecd649d2ff"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rack-proxy",
+      "version": "0.6.5",
+      "description": "A request/response rewriting HTTP proxy. A Rack app.",
+      "purl": "pkg:gem/rack-proxy@0.6.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "da247017cd1f12ea92eea8ec0cbf50ef0689907d0334eb1d6e0b7ed847eb80ec"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rack-rewrite",
+      "version": "1.5.1",
+      "description": "A rack middleware for enforcing rewrite rules",
+      "purl": "pkg:gem/rack-rewrite@1.5.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "682079619b15e4a8084377ce12887b2d14cdafff6b23120db3dca4ddc2e13456"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rack-server-pages",
+      "version": "0.1.0",
+      "description": "Rack middleware and appilcation for serving dynamic pages in very simple way.",
+      "purl": "pkg:gem/rack-server-pages@0.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2d92218f6f3cbabf4acd94eb8c40dc174dd160059542767023bf3f9065583b51"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rack-test",
+      "version": "1.1.0",
+      "description": "Simple testing API built on Rack",
+      "purl": "pkg:gem/rack-test@1.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "154161f40f162b1c009a655b7b0c5de3a3102cc6d7d2e94b64e1f46ace800866"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rack_fast_escape",
+      "version": "2009.06.24",
+      "description": "The Rack Fast Escape library, by The Rubyists, LLC",
+      "purl": "pkg:gem/rack_fast_escape@2009.06.24",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c6e747620efd1a07a7197657ce91daa40acaf3a979642406bdf50a1decf39a5a"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rails",
+      "version": "5.2.7",
+      "description": "Full-stack web application framework.",
+      "purl": "pkg:gem/rails@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b650a8f5a0a896555b4539b9f523024a64c605fb849de92affea803a9c6b0ee6"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rails-dom-testing",
+      "version": "2.0.3",
+      "description": "Dom and Selector assertions for Rails applications",
+      "purl": "pkg:gem/rails-dom-testing@2.0.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b140c4f39f6e609c8113137b9a60dfc2ecb89864e496f87f23a68b3b8f12d8d1"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rails-html-sanitizer",
+      "version": "1.4.2",
+      "description": "This gem is responsible to sanitize HTML fragments in Rails applications.",
+      "purl": "pkg:gem/rails-html-sanitizer@1.4.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7371cb1960c975130c929a6ab04fd1fd633093a594089011589dd27747741927"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rails_autolink",
+      "version": "1.1.6",
+      "description": "Automatic generation of html links in texts",
+      "purl": "pkg:gem/rails_autolink@1.1.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "384c17bee71ca5dc44f49401762f91abb6bc356dd564f380713fc974d2c25671"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "railties",
+      "version": "5.2.7",
+      "description": "Tools for creating, working with, and running Rails applications.",
+      "purl": "pkg:gem/railties@5.2.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8bf2766310938cf67ca78bb5c48bcb36bd70a59899ff8d8bfe4ca129ead47746"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rainbow",
+      "version": "3.0.0",
+      "description": "Colorize printed text on ANSI terminals",
+      "purl": "pkg:gem/rainbow@3.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "13ce4ffc3c94fb7a842117ecabdcdc5ff7fa27bec15ea44137b9f9abe575622d"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rake",
+      "version": "13.0.6",
+      "description": "Rake is a Make-like program implemented in Ruby",
+      "purl": "pkg:gem/rake@13.0.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5ce4bf5037b4196c24ac62834d8db1ce175470391026bd9e557d669beeb19097"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rb-fsevent",
+      "version": "0.10.3",
+      "description": "Very simple &amp; usable FSEvents API",
+      "purl": "pkg:gem/rb-fsevent@0.10.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a8f78186feb55bb98579b5e0f8dd925ececfde1b5c2496e5e932997ff999a1d2"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rb-inotify",
+      "version": "0.10.0",
+      "description": "A Ruby wrapper for Linux inotify, using FFI",
+      "purl": "pkg:gem/rb-inotify@0.10.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4481d9ce69159774be31215d10917684413ad3416b2018bdd8dc9b976a8747bb"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "recursive-open-struct",
+      "version": "1.0.2",
+      "description": "OpenStruct subclass that returns nested hash attributes as RecursiveOpenStructs",
+      "purl": "pkg:gem/recursive-open-struct@1.0.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c8b1a4a28005b4085e91d144b465b41237fbed5cd0bd0bb27cb054ad12251a7e"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "redcarpet",
+      "version": "3.4.0",
+      "description": "Markdown that smells nice",
+      "purl": "pkg:gem/redcarpet@3.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a7b10a67a2c11d7a1945caa7fbfc2e6c8fcbe4583ff355af9d499319a1f83841"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "redis",
+      "version": "4.1.4",
+      "description": "A Ruby client library for Redis",
+      "purl": "pkg:gem/redis@4.1.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d01bd95f1cfeda3f5cf2b337e72fd56b4fa07feb094b34b6161f28b1bc401748"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "redis-actionpack",
+      "version": "5.2.0",
+      "description": "Redis session store for ActionPack",
+      "purl": "pkg:gem/redis-actionpack@5.2.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6337f72c5ed21e7d4909468479fe51d9c2b343cf0ea933e0270400f6bf394230"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "redis-activesupport",
+      "version": "5.2.0",
+      "description": "Redis store for ActiveSupport",
+      "purl": "pkg:gem/redis-activesupport@5.2.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a93cb1fd58b4f8e47f0acdf9902a193c93e5d8aec38df2b6f602481010fa4391"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "redis-rack",
+      "version": "2.1.2",
+      "description": "Redis Store for Rack",
+      "purl": "pkg:gem/redis-rack@2.1.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "23107d5d080e3453a71ba7a8b029d28b7e1dbfb17b26941fd817a0e6bb2ebc51"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "redis-rails",
+      "version": "5.0.2",
+      "description": "Redis for Ruby on Rails",
+      "purl": "pkg:gem/redis-rails@5.0.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "80406d65c513f20756cd4aa2fd0224e41b93d645b3f1e7cc3effc1c2959f5b42"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "redis-store",
+      "version": "1.9.0",
+      "description": "Redis stores for Ruby frameworks",
+      "purl": "pkg:gem/redis-store@1.9.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e6b57af0982887d7e410f8b4dcd6fc85c05801659688c5559164daad855bff32"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "regexp_parser",
+      "version": "1.6.0",
+      "description": "Scanner, lexer, parser for ruby's regular expressions",
+      "purl": "pkg:gem/regexp_parser@1.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c2f9a3e424b13acfbdc063df8350eaee601b5bb0a11f70466c176f0906ad84d0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "representable",
+      "version": "3.0.4",
+      "description": "Renders and parses JSON/XML/YAML documents from and to Ruby objects. Includes plain properties, collections, nesting, coercion and more.",
+      "purl": "pkg:gem/representable@3.0.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "07d43917dea4712ecebd19c1909e769deed863ad444d23ceb6461519e2cba962"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "responders",
+      "version": "2.4.1",
+      "description": "A set of Rails responders to dry up your application",
+      "purl": "pkg:gem/responders@2.4.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "15cf41657745c5e38b22d50acadb6ecbbcbfb72f2a761e4ddb6488c37c5c98a2"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rest-client",
+      "version": "2.1.0",
+      "description": "Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.",
+      "purl": "pkg:gem/rest-client@2.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a35a3bb8d16ca39d110a946a2c805267f98ce07a0ae890e4512a45eadea47a6e"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "retriable",
+      "version": "3.1.2",
+      "description": "Retriable is a simple DSL to retry failed code blocks with randomized exponential backoff",
+      "purl": "pkg:gem/retriable@3.1.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0a5a5d0ca4ba61a76fb31a17ab8f7f80281beb040c329d34dfc137a1398688e0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rexml",
+      "version": "3.2.5",
+      "description": "An XML toolkit for Ruby",
+      "purl": "pkg:gem/rexml@3.2.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a33c3bf95fda7983ec7f05054f3a985af41dbc25a0339843bd2479e93cabb123"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-2-Clause"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "roar",
+      "version": "1.1.0",
+      "description": "Parse and render REST API documents using representers.",
+      "purl": "pkg:gem/roar@1.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c62af8132763dab8d46663f0c241840e72f34b5cdfc550588b1afdd812ab7c9d"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rollbar",
+      "version": "3.3.0",
+      "description": "Reports exceptions to Rollbar",
+      "purl": "pkg:gem/rollbar@3.3.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5ff312b3d8bc87f74e00c6cd836be7199c35e610c1effbe53a77335b0a725e9f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rspec-core",
+      "version": "3.6.0",
+      "description": "rspec-core-3.6.0",
+      "purl": "pkg:gem/rspec-core@3.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2dbf3356fa41622081f2cc1ef07a04a69f668d5a4ca94b99e2e93cc13d47d7a2"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rspec-expectations",
+      "version": "3.6.0",
+      "description": "rspec-expectations-3.6.0",
+      "purl": "pkg:gem/rspec-expectations@3.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0a7093f6a40b5e4302452773307f7ae23c40245f3660407a9fe3e29adc771109"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rspec-mocks",
+      "version": "3.6.0",
+      "description": "rspec-mocks-3.6.0",
+      "purl": "pkg:gem/rspec-mocks@3.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e8feb83bafdb7c5aedcb0c7a539d98539b090a1a91279e62784a13e1fb94665b"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rspec-rails",
+      "version": "3.6.1",
+      "description": "RSpec for Rails",
+      "purl": "pkg:gem/rspec-rails@3.6.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "17a6374bde3a31827c5e6e99a69827d8a36a57c32ab0f9a7a38317067e620677"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rspec-retry",
+      "version": "0.6.2",
+      "description": "retry intermittently failing rspec examples",
+      "purl": "pkg:gem/rspec-retry@0.6.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6101ba23a38809811ae3484acde4ab481c54d846ac66d5037ccb40131a60d858"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rspec-sidekiq",
+      "version": "3.0.3",
+      "description": "RSpec for Sidekiq",
+      "purl": "pkg:gem/rspec-sidekiq@3.0.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d8e939becbdc9cba615e3113c65ef50ad985d3dfe4ed42d8d73223b6325ef778"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rspec-support",
+      "version": "3.6.0",
+      "description": "rspec-support-3.6.0",
+      "purl": "pkg:gem/rspec-support@3.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "eb7acb83e0e7dbe6a41e67df1f0ea97b0fb9d62f41116711e288567d31561714"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rspec_junit_formatter",
+      "version": "0.4.1",
+      "description": "RSpec JUnit XML formatter",
+      "purl": "pkg:gem/rspec_junit_formatter@0.4.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3788f9b3fabc6284b93493cf4b3a80cba2b59b3a774b95f39dd7886d5faed6ab"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rubocop",
+      "version": "0.59.2",
+      "description": "Automatic Ruby code style checking tool.",
+      "purl": "pkg:gem/rubocop@0.59.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a6888aef273e586226013355db553bca6c7acd81ca5771d749d69a883dc92004"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rubocop-rspec",
+      "version": "1.29.1",
+      "description": "Code style checking for RSpec files",
+      "purl": "pkg:gem/rubocop-rspec@1.29.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a6984c71eb2cc432594bb3fde0c59275d85cbf810fd88852036aeeb39920b36a"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ruby-openai",
+      "version": "3.7.0",
+      "description": "OpenAI API + Ruby! 🤖❤️",
+      "purl": "pkg:gem/ruby-openai@3.7.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "fb735d4c055e282ade264cab9864944c05a8a10e0cddd45a0551e8a9851b1850"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ruby-progressbar",
+      "version": "1.10.0",
+      "description": "Ruby/ProgressBar is a flexible text progress bar library for Ruby.",
+      "purl": "pkg:gem/ruby-progressbar@1.10.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "933e58652a6e7eac5426310d5dc96a629dadd631de029210df3a019a47f562b3"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rubyzip",
+      "version": "2.3.2",
+      "description": "rubyzip is a ruby module for reading and writing zip files",
+      "purl": "pkg:gem/rubyzip@2.3.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3f57e3935dc2255c414484fbf8d673b4909d8a6a57007ed754dde39342d2373f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD 2-Clause"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rufus-scheduler",
+      "version": "3.6.0",
+      "description": "job scheduler for Ruby (at, cron, in and every jobs)",
+      "purl": "pkg:gem/rufus-scheduler@3.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "cc9cd71db26334e73897e9722d78551ac2fffefe80de391fe056016c934799ad"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sass",
+      "version": "3.4.22",
+      "description": "A powerful but elegant CSS compiler that makes CSS fun again.",
+      "purl": "pkg:gem/sass@3.4.22",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9e7bad9b3854e1913a6d30eb3bae69eca8dd61e55c63a92a78e14d67c4367236"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sass-rails",
+      "version": "5.0.6",
+      "description": "Sass adapter for the Rails asset pipeline.",
+      "purl": "pkg:gem/sass-rails@5.0.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8bb5d9ed4e83c7e1ad2b518daf13a266b995c40a5ac74bc2673633b420105146"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sassc",
+      "version": "2.4.0",
+      "description": "Use libsass with Ruby!",
+      "purl": "pkg:gem/sassc@2.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8773b917cb52c7e92c94d4bf324c1c0be3e50d9092f9f5ed4c3c6e454b451c5e"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sassc-rails",
+      "version": "2.1.2",
+      "description": "Integrate SassC-Ruby into Rails.",
+      "purl": "pkg:gem/sassc-rails@2.1.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5f4fdf3881fc9bdc8e856ffbd9850d70a2878866feae8114aa45996179952db5"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "selectize-rails",
+      "version": "0.12.6",
+      "description": "an asset gemification of the selectize.js plugin",
+      "purl": "pkg:gem/selectize-rails@0.12.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "425b0b48de8ad02992de0190e37f4b12a84f4252af8a41429c847a3cd6b9bfa9"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "name": "MIT, Apache License v2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "selenium-webdriver",
+      "version": "4.9.0",
+      "description": "Selenium is a browser automation tool for automated testing of webapps and more",
+      "purl": "pkg:gem/selenium-webdriver@4.9.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0f5fc4118ab231e5ef1895b1e14a4366eb9d73d60a8e42b0d84f69cdfdd8b6cf"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "semantic_range",
+      "version": "3.0.0",
+      "description": "node-semver rewritten in ruby, for comparison and inclusion of semantic versions and ranges",
+      "purl": "pkg:gem/semantic_range@3.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3066777ba546f807060d3c93892d5c52eff40f45fd48ac94cef496f4f64997b6"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "shortuuid",
+      "version": "0.6.0",
+      "description": "Quickly and easily convert UUIDs to space efficient Base62 strings.",
+      "purl": "pkg:gem/shortuuid@0.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "691b5d12f53188e3e536df400e7196ba4ab398151e6715e41c7426437951bcfa"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "shoulda-matchers",
+      "version": "4.1.0",
+      "description": "Simple one-liner tests for common Rails functionality",
+      "purl": "pkg:gem/shoulda-matchers@4.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "764e764fc4803658ea7a26478e89bafac5b373916b8a86c658b7df9d08ed5076"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sidekiq",
+      "version": "6.0.7",
+      "description": "Simple, efficient background processing for Ruby",
+      "purl": "pkg:gem/sidekiq@6.0.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "429f5a5af96bc099c92e1f3d7a1f02357b2665d168afcb88ee228c244861ba67"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "LGPL-3.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sidekiq-failures",
+      "version": "1.0.0",
+      "description": "Keeps track of Sidekiq failed jobs and adds a tab to the Web UI to let you browse them. Makes use of Sidekiq's custom tabs and middleware chain.",
+      "purl": "pkg:gem/sidekiq-failures@1.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ea016f2837b09a9e112c935b650d3bdb0fbe7fc70b4ad49cb8cd3f19ace0dd9b"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sidekiq-scheduler",
+      "version": "3.0.1",
+      "description": "Light weight job scheduling extension for Sidekiq",
+      "purl": "pkg:gem/sidekiq-scheduler@3.0.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "21f167d9459fdb119b25fa2c6872c6aee84a56003ce1428539add513dcad9cf9"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sidekiq-unique-jobs",
+      "version": "6.0.21",
+      "description": "Sidekiq middleware that prevents duplicates jobs",
+      "purl": "pkg:gem/sidekiq-unique-jobs@6.0.21",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c3fbc595d47bd4c5c0044a3864231f215ab245f371f46cd4758e567a7b8891da"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "signet",
+      "version": "0.15.0",
+      "description": "Signet is an OAuth 1.0 / OAuth 2.0 implementation.",
+      "purl": "pkg:gem/signet@0.15.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0f184cb36951f56de355a4cf6357a77e2a78a240ac63a47b19b7c399aaab7def"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sixarm_ruby_unaccent",
+      "version": "1.1.1",
+      "description": "SixArm.com » Ruby » Unaccent",
+      "purl": "pkg:gem/sixarm_ruby_unaccent@1.1.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "79ac63103532bb649792d924baedeb11743e7735b812aa8aae98d68380836ee7"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "slack-notifier",
+      "version": "2.3.1",
+      "description": "A slim ruby wrapper for posting to slack webhooks",
+      "purl": "pkg:gem/slack-notifier@2.3.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "479a7ea2cc79a9b7e8a1ba1e450e93a8513ddf7cba779d28f38bc60b0b0a7405"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "slack-ruby-bot",
+      "version": "0.10.4",
+      "description": "The easiest way to write a Slack bot in Ruby.",
+      "purl": "pkg:gem/slack-ruby-bot@0.10.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6aca4c10312ccccd195db63c16cdf4b75bb61804bd9c6fdf08a3ba4316ebf300"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "slack-ruby-client",
+      "version": "0.14.6",
+      "description": "Slack Web and RealTime API client.",
+      "purl": "pkg:gem/slack-ruby-client@0.14.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c3d23ba9ed3b1b3ed116e8212dc5a57dbfd31051fadf8403175603e8fe28608c"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "slop",
+      "version": "3.6.0",
+      "description": "Simple Lightweight Option Parsing",
+      "purl": "pkg:gem/slop@3.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "76ccab03be66bfcab4838cdc07cab019cd3e192a3538266246749e79e4788803"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "spring",
+      "version": "2.1.0",
+      "description": "Rails application preloader",
+      "purl": "pkg:gem/spring@2.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "cb2fd6655b7ef491226c6a49a0fa644457cada40d400365eaf63fdbeb1c211df"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "spring-watcher-listen",
+      "version": "2.0.1",
+      "description": "Makes spring watch files using the listen gem.",
+      "purl": "pkg:gem/spring-watcher-listen@2.0.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "df83906f5ec811ec0be4536a7a088618af58667b232ffbb6bee4bb67b54d7ff9"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sprockets",
+      "version": "3.7.2",
+      "description": "Rack-based asset packaging system",
+      "purl": "pkg:gem/sprockets@3.7.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5ea1d7facd09203c1aa196afd6178208cd25abdbcc2a9978810a2f0754e152a0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "sprockets-rails",
+      "version": "3.4.2",
+      "description": "Sprockets Rails integration",
+      "purl": "pkg:gem/sprockets-rails@3.4.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "36d6327757ccf7460a00d1d52b2d5ef0019a4670503046a129fa1fb1300931ad"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "storext",
+      "version": "2.2.2",
+      "description": "Extends ActiveRecord::Store.store_accessor",
+      "purl": "pkg:gem/storext@2.2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4f6432b88d77c6abb6a0c594aa182e10aa0f19d19c274ddb5064e425b5617427"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "stripe",
+      "version": "5.55.0",
+      "description": "Ruby bindings for the Stripe API",
+      "purl": "pkg:gem/stripe@5.55.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "87236686116db65ce18b8490066afd27413fdb6cee4f9d93e36b80d10488e2a3"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "stripe_event",
+      "version": "2.4.0",
+      "description": "Stripe webhook integration for Rails applications.",
+      "purl": "pkg:gem/stripe_event@2.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0207141f7165773d7ed5952faf9a879517e9b1ca30633a4eea9b1c136b8e1c22"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "temple",
+      "version": "0.8.2",
+      "description": "Template compilation framework in Ruby",
+      "purl": "pkg:gem/temple@0.8.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c12071214346c606dbd219b4117276d04a9f2c20d65e66a66b2c4ec18efc1f18"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "thor",
+      "version": "0.19.4",
+      "description": "Thor is a toolkit for building powerful command-line interfaces.",
+      "purl": "pkg:gem/thor@0.19.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "da8aa62e197c5c203d9dc3db06314abdab2d8dc9807d0094a9c0503cd36ec506"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "thread_safe",
+      "version": "0.3.6",
+      "description": "Thread-safe collections and utilities for Ruby",
+      "purl": "pkg:gem/thread_safe@0.3.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "bb28394cd0924c068981adee71f36a81c85c92e7d74d3f62372bd51489a0e0c2"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "thwait",
+      "version": "0.1.0",
+      "description": "Watches for termination of multiple threads.",
+      "purl": "pkg:gem/thwait@0.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7a852a6db387afb7209012f9e14b9bbdd7d81d1d707b5f5f2de5f899e8e0638b"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "BSD-2-Clause"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "tilt",
+      "version": "2.0.10",
+      "description": "Generic interface to multiple Ruby template engines",
+      "purl": "pkg:gem/tilt@2.0.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9b664f0e9ae2b500cfa00f9c65c34abc6ff1799cf0034a8c0a0412d520fac866"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "time_for_a_boolean",
+      "version": "0.2.0",
+      "description": "Back boolean values with timestamps",
+      "purl": "pkg:gem/time_for_a_boolean@0.2.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3b83dc230e644958afdabb90d16ad9226e44f3ff523a9661fcc1c81ad0fc8d42"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "timecop",
+      "version": "0.8.1",
+      "description": "A gem providing \"time travel\" and \"time freezing\" capabilities, making it dead simple to test time-dependent code.  It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.",
+      "purl": "pkg:gem/timecop@0.8.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "bdce943521113e0b9ed2a6136e1c7396fa413ec7100814f2fe5bc1ee319f8b6f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "timers",
+      "version": "4.1.2",
+      "description": "Pure Ruby one-shot and periodic timers",
+      "purl": "pkg:gem/timers@4.1.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a7a7148409d5d6a7c04624277f4cc99f7748b40be394afcc4187ada73c2a5d71"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "transactional_capybara",
+      "version": "0.2.0",
+      "description": "Speed up your test suite with database transactions, without losing your mind to Capybara connection problems. Supports shared connections, plus AJAX watchers to avoid common deadlock scenarios.",
+      "purl": "pkg:gem/transactional_capybara@0.2.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a2279b93e306a496d13f85ee7cb997c108db711081773b49ffec8becba9fdcc9"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "tzinfo",
+      "version": "1.2.10",
+      "description": "Daylight savings aware timezone library",
+      "purl": "pkg:gem/tzinfo@1.2.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c6d3fa6e6de19744171536dc1bd1142442f3f265efabe8d9f28c03f9874f8867"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "uber",
+      "version": "0.1.0",
+      "description": "Gem-authoring tools like generic builders, dynamic options and more.",
+      "purl": "pkg:gem/uber@0.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5beeb407ff807b5db994f82fa9ee07cfceaa561dad8af20be880bc67eba935dc"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "uglifier",
+      "version": "4.1.20",
+      "description": "Ruby wrapper for UglifyJS JavaScript compressor",
+      "purl": "pkg:gem/uglifier@4.1.20",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "fc9d35dfc08458b25c44721fc78935c7876e632eaa3de04fc4be69f49e176375"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "unf",
+      "version": "0.1.4",
+      "description": "A wrapper library to bring Unicode Normalization Form support to Ruby/JRuby",
+      "purl": "pkg:gem/unf@0.1.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "49a5972ec0b3d091d3b0b2e00113f2f342b9b212f0db855eb30a629637f6d302"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "name": "2-clause BSDL"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "unf_ext",
+      "version": "0.0.7.6",
+      "description": "Unicode Normalization Form support library for CRuby",
+      "purl": "pkg:gem/unf_ext@0.0.7.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ae5bf2c42c6ed31942972faaf39c7bfdd97aa44530852e37c701c11589e186d2"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "unicode-display_width",
+      "version": "1.4.0",
+      "description": "Determines the monospace display width of a string in Ruby.",
+      "purl": "pkg:gem/unicode-display_width@1.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a72802fd6345c0da220e8088b27f1800924b74d222621a06477757769b5e8000"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "url_escape",
+      "version": "2009.06.24",
+      "description": "Fast url_escape library written in C",
+      "purl": "pkg:gem/url_escape@2009.06.24",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2114b8db0e0cb9ce01a5154a8021192fad34651d48c3e393ef6b6eb6a9db72b3"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "vcr",
+      "version": "6.0.0",
+      "description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.",
+      "purl": "pkg:gem/vcr@6.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6a28a042cd65fc70b8c02a8e32ef71a423c8387bf2994e35824b4ec94f1132c9"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "name": "Hippocratic-2.1"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "virtus",
+      "version": "1.0.5",
+      "description": "Attributes on Steroids for Plain Old Ruby Objects",
+      "purl": "pkg:gem/virtus@1.0.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d3053b9ff62d3f8b7b233f7e1aa9530b73ed7e541bee2c62f2c711362287371a"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "warden",
+      "version": "1.2.8",
+      "description": "An authentication library compatible with all Rack-based frameworks",
+      "purl": "pkg:gem/warden@1.2.8",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a410ea128f0779c8a40593e4dcb43b5bfec35e27bcb960a2595da09c62b229bb"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "web-console",
+      "version": "3.4.0",
+      "description": "A debugging tool for your Ruby on Rails applications.",
+      "purl": "pkg:gem/web-console@3.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "16527bd9116aecf2c3ac7fcf40e220b06c8ae6122ab45edb4397e2a60437dbf1"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "webmock",
+      "version": "3.5.1",
+      "description": "Library for stubbing HTTP requests in Ruby.",
+      "purl": "pkg:gem/webmock@3.5.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b73fca6fbc3622a2a63e6a17075b07a95876ee8187f0911688361fdcb560e03d"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "webpacker",
+      "version": "5.4.0",
+      "description": "Use webpack to manage app-like JavaScript modules in Rails",
+      "purl": "pkg:gem/webpacker@5.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d01023c73f0fa64eabb28df68806214a4dbbe8a062f1b2beba62396b95a9462f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "websocket",
+      "version": "1.2.10",
+      "description": "Universal Ruby library to handle WebSocket protocol",
+      "purl": "pkg:gem/websocket@1.2.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2cc1a4a79b6e63637b326b4273e46adcddf7871caa5dc5711f2ca4061a629fa8"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "websocket-driver",
+      "version": "0.7.5",
+      "description": "WebSocket protocol handler with pluggable I/O",
+      "purl": "pkg:gem/websocket-driver@0.7.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "fffa83aa188e9ac90e32a385832ec9d26acdf019538e1c7d703f2c8a323b39c8"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "websocket-extensions",
+      "version": "0.1.5",
+      "description": "Generic extension manager for WebSocket connections",
+      "purl": "pkg:gem/websocket-extensions@0.1.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1c6ba63092cda343eb53fc657110c71c754c56484aad42578495227d717a8241"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "week_of_month",
+      "version": "1.2.3.4",
+      "description": "Week of month!",
+      "purl": "pkg:gem/week_of_month@1.2.3.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "98f6a914ea4f5391500a2f3f36953f0b0c61582bdf2c2741eb3249cc9e4fd0dd"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "wicked",
+      "version": "1.3.3",
+      "description": "Use Wicked to turn your controller into a wizard",
+      "purl": "pkg:gem/wicked@1.3.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c93668a68984e30f305db89c7f2719801e3e65f2b1fc8760ca300645a7b2c5f0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "wicked_pdf",
+      "version": "1.1.0",
+      "description": "PDF generator (from HTML) gem for Ruby on Rails",
+      "purl": "pkg:gem/wicked_pdf@1.1.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2105db4cd2ab3dbf45bdd592726dfc0beaac34b09f2a418df407d99f350b93d9"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "wkhtmltopdf-binary",
+      "version": "0.12.3.1",
+      "description": "Provides binaries for WKHTMLTOPDF project in an easily accessible package.",
+      "purl": "pkg:gem/wkhtmltopdf-binary@0.12.3.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "edd98700b02122db42333e55922adf3544871fa3d8eda1fb33b7fac86c584a5f"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "wkhtmltopdf-heroku",
+      "version": "2.12.4.0",
+      "description": "provides wkhtmltopdf binaries for heroku cedar-14 stack",
+      "purl": "pkg:gem/wkhtmltopdf-heroku@2.12.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e6f0f4731835e0ae75dc5a208471883c5153cd3a4d1ba8d81e5c6481aff73cbf"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "xmlrpc",
+      "version": "0.3.0",
+      "description": "XMLRPC is a lightweight protocol that enables remote procedure calls over HTTP.",
+      "purl": "pkg:gem/xmlrpc@0.3.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "03996896fec56a9f04b7f928ba7584a93397daf0f39e32e4134670ba7824e4e8"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Ruby"
+          }
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "xpath",
+      "version": "3.2.0",
+      "description": "Generate XPath expressions from Ruby",
+      "purl": "pkg:gem/xpath@3.2.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6dfda79d91bb3b949b947ecc5919f042ef2f399b904013eb3ef6d20dd3a4082e"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    }
+  ]
+}
